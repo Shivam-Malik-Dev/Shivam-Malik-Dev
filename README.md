@@ -2,57 +2,62 @@
 
 # ☁️ Cloud & DevOps Engineer
 
-Passionate about designing scalable cloud infrastructure, automating deployments and building reliable systems.
+Passionate about building scalable cloud infrastructure and automating deployments.
 
-📫 Email: **shivammalik.work@gmail.com**
+📫 Email: shivammalik.work@gmail.com
 
 ---
 
-## 🚀 Expertise
+## 🛠 Tech Stack
 
-### ☁️ Cloud Platforms
-AWS
+### ☁️ Cloud
+
+AWS (EC2, VPC, IAM, ALB, ASG, S3, Route53)
 
 ### 🐳 Containers
+
 Docker • Docker Compose
 
 ### ⚙️ CI/CD
+
 Jenkins • GitHub Actions
 
 ### 🌍 Infrastructure as Code
+
 Terraform
 
 ### ☸️ Container Orchestration
+
 Kubernetes
 
-### 📊 Monitoring & Observability
+### 📊 Monitoring
+
 Prometheus • Grafana
 
-### 🐧 Operating Systems
+### 🐧 Operating System
+
 Linux
 
-### 💻 Programming & Scripting
+### 💻 Languages
+
 Python • Bash
 
 ### 🔧 Version Control
+
 Git • GitHub
 
 ---
 
-## 💼 Core Skills
+## 🚀 Core Skills
 
 ✔ Infrastructure Automation
 
-✔ Continuous Integration & Continuous Delivery (CI/CD)
+✔ CI/CD Pipelines
 
 ✔ Containerization & Orchestration
 
 ✔ Cloud Architecture
 
-✔ Monitoring & Observability
-
 ✔ Linux Administration
-
-✔ Automation with Python & Shell Scripting
 
 ✔ High Availability & Scalability
