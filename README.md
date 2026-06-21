@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Malik
 
-<!--
-**Shivam-Malik-Dev/Shivam-Malik-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☁️ Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+Passionate about designing scalable cloud infrastructure, automating deployments and building reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Email: **shivammalik.work@gmail.com**
+
+---
+
+## 🚀 Expertise
+
+### ☁️ Cloud Platforms
+AWS
+
+### 🐳 Containers
+Docker • Docker Compose
+
+### ⚙️ CI/CD
+Jenkins • GitHub Actions
+
+### 🌍 Infrastructure as Code
+Terraform
+
+### ☸️ Container Orchestration
+Kubernetes
+
+### 📊 Monitoring & Observability
+Prometheus • Grafana
+
+### 🐧 Operating Systems
+Linux
+
+### 💻 Programming & Scripting
+Python • Bash
+
+### 🔧 Version Control
+Git • GitHub
+
+---
+
+## 💼 Core Skills
+
+✔ Infrastructure Automation
+
+✔ Continuous Integration & Continuous Delivery (CI/CD)
+
+✔ Containerization & Orchestration
+
+✔ Cloud Architecture
+
+✔ Monitoring & Observability
+
+✔ Linux Administration
+
+✔ Automation with Python & Shell Scripting
+
+✔ High Availability & Scalability
+
+---
+
+## 🎯 Focus Areas
+
+- Cloud Engineering
+- DevOps Engineering
+- Platform Engineering
+- Infrastructure Automation
+- Scalable and Reliable Systems
+
+---
+
+### ⚡ Philosophy
+
+> Automate everything possible and build systems that scale.
