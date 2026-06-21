@@ -12,7 +12,7 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 ### ☁️ Cloud
 
-AWS (EC2, VPC, IAM, ALB, ASG, S3, Route53)
+AWS (EC2, VPC, IAM, ALB, CLB, ASG, S3, RDS, CLOUD WATCH, SNS, EBS, SNAPSHOT, AMI, PUTTY)
 
 ### 🐳 Containers
 
