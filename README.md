@@ -56,19 +56,3 @@ Git • GitHub
 ✔ Automation with Python & Shell Scripting
 
 ✔ High Availability & Scalability
-
----
-
-## 🎯 Focus Areas
-
-- Cloud Engineering
-- DevOps Engineering
-- Platform Engineering
-- Infrastructure Automation
-- Scalable and Reliable Systems
-
----
-
-### ⚡ Philosophy
-
-> Automate everything possible and build systems that scale.
