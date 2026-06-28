@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=99999&color=0ea5e9&center=true&vCenter=true&width=900&height=80&lines=Shivam+Malik" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=0ea5e9&center=true&vCenter=true&width=800&height=70&lines=Shivam+Malik" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=99999&color=64748b&center=true&vCenter=true&width=800&height=30&lines=Cloud+%26+DevOps+Engineer" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=☁️+AWS+Infrastructure+Specialist;⚙️+Terraform+%7C+Docker+%7C+Kubernetes;🚀+CI%2FCD+Pipeline+Automation;🔐+Cloud+Security+%26+Networking" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1&pause=99999&color=94a3b8&center=true&vCenter=true&width=900&height=40&lines=Cloud+%26+DevOps+Engineer" alt="Title" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=AWS+Infrastructure+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Automation;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-malik-59b13a29b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shivammalik.work@gmail.com)
@@ -126,7 +124,5 @@ Provisioned modular, reusable AWS infrastructure using Terraform following IaC b
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-malik-59b13a29b/)
 [![Gmail](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shivammalik.work@gmail.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=99999&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=────────────────────────────────────────────────────────────────" alt="divider" />
 
 </div>
