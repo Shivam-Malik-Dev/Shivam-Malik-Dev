@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=160&section=header&text=Shivam%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=58&descColor=a5f3fc" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=AWS+Infrastructure+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Automation;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Shivam%20Malik&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=60&descColor=a5f3fc" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=AWS+Infrastructure+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Automation;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-malik-59b13a29b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammalik.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shivammalik.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Malik-Dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shivam-Malik-Dev&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/Shivam-Malik-Dev)
 
@@ -25,13 +27,17 @@ I focus on building reliable, production-ready cloud environments that scale.
 
 ## 🛠️ Tech Stack
 
-| Domain | Tools |
-|---|---|
-| ☁️ **Cloud** | ![AWS](https://skillicons.dev/icons?i=aws) `EC2` `VPC` `IAM` `S3` `RDS` `Lambda` `ALB` `CloudWatch` |
-| ⚙️ **DevOps** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git) `Docker` `K8s` `Terraform` `Jenkins` |
-| 💻 **Languages** | ![Code](https://skillicons.dev/icons?i=python,bash) `Python` `Bash` `YAML` `SQL` |
-| 📊 **Monitoring** | ![Monitor](https://skillicons.dev/icons?i=prometheus,grafana) `CloudWatch` `Prometheus` `Grafana` `SNS` |
-| 🐧 **OS** | ![OS](https://skillicons.dev/icons?i=linux) `Ubuntu` `Amazon Linux` `RHEL` `Debian` |
+<div align="center">
+
+| Domain | Icons | Tools |
+|:---:|:---:|:---|
+| ☁️ **Cloud** | <img src="https://skillicons.dev/icons?i=aws" height="32"/> | `EC2` `VPC` `IAM` `S3` `RDS` `Lambda` `ALB` `CloudWatch` |
+| ⚙️ **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git" height="32"/> | `Docker` `Kubernetes` `Terraform` `Jenkins` `Git` |
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,bash" height="32"/> | `Python` `Bash` `YAML` `SQL` |
+| 📊 **Monitoring** | <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> | `CloudWatch` `SNS` |
+| 🐧 **OS** | <img src="https://skillicons.dev/icons?i=linux" height="32"/> | `Ubuntu` `Amazon Linux` `RHEL` `Debian` |
+
+</div>
 
 ---
 
@@ -119,7 +125,7 @@ Provisioned modular, reusable AWS infrastructure using Terraform following IaC b
 ### 📬 Open to Cloud & DevOps Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-malik-59b13a29b/)
-[![Gmail](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammalik.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shivammalik.work@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer"/>
 
