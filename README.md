@@ -2,7 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=0ea5e9&center=true&vCenter=true&width=800&height=70&lines=Shivam+Malik" alt="Name" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=99999&color=64748b&center=true&vCenter=true&width=800&height=30&lines=Cloud+%26+DevOps+Engineer" alt="Title" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=☁️+AWS+Infrastructure+Specialist;⚙️+Terraform+%7C+Docker+%7C+Kubernetes;🚀+CI%2FCD+Pipeline+Automation;🔐+Cloud+Security+%26+Networking" alt="Typing SVG" />
+
+<br/>
+
+![AWS](https://img.shields.io/badge/☁️%20AWS%20Infrastructure-0ea5e9?style=flat-square&logoColor=white)
+![CICD](https://img.shields.io/badge/⚙️%20CI%2FCD%20Pipelines-0ea5e9?style=flat-square&logoColor=white)
+![K8s](https://img.shields.io/badge/🐳%20Docker%20%7C%20Kubernetes-0ea5e9?style=flat-square&logoColor=white)
+![IaC](https://img.shields.io/badge/🏗️%20Terraform%20%7C%20IaC-0ea5e9?style=flat-square&logoColor=white)
 
 <br/>
 
