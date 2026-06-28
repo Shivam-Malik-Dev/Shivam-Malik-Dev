@@ -4,11 +4,9 @@
 
 ### ☁️ Cloud & DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00B8FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+with+Jenkins;Building+Highly+Available+Cloud+Infrastructure;Infrastructure+as+Code+(Terraform);Linux+%7C+AWS+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Automation;Building+Highly+Available+Cloud+Infrastructure;Open+to+Cloud+%26+DevOps+Opportunities" alt="Typing SVG" />
 
-<br>
-
-<p align="center">
+<br><br>
 
 <a href="https://github.com/Shivam-Malik-Dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -19,10 +17,10 @@
 </a>
 
 <a href="mailto:shivammalik.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Shivam-Malik-Dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -32,183 +30,152 @@
 
 # 💻 About Me
 
-I'm a **Cloud & DevOps Engineer** focused on designing scalable cloud infrastructure, automating deployments, and building production-ready environments using modern DevOps practices.
+Cloud & DevOps Engineer with hands-on experience in designing highly available AWS infrastructure, automating software delivery through CI/CD pipelines, provisioning infrastructure using Terraform, and deploying containerized applications using Docker and Kubernetes.
 
-I enjoy solving infrastructure challenges with automation, Infrastructure as Code, containerization, and CI/CD while following production-grade architecture and industry best practices.
-
----
-
-# 🚀 Professional Highlights
-
-- ☁️ Designed highly available AWS infrastructure using **VPC, ALB, Auto Scaling Groups and Multi-AZ architecture**
-- 🏗️ Provisioned cloud infrastructure using **Terraform (Infrastructure as Code)**
-- 🐳 Containerized applications using **Docker & Docker Compose**
-- ☸️ Deployed workloads on **Kubernetes clusters**
-- ⚙️ Built automated **CI/CD Pipelines** using Jenkins and GitHub
-- 🐧 Strong Linux administration & Shell scripting
-- 📈 Implemented monitoring with **CloudWatch, SNS, Prometheus & Grafana**
-- 🔐 Hands-on with IAM, Security Groups, Load Balancers, Launch Templates and Networking
+I enjoy building reliable, scalable, and production-ready cloud environments by combining automation, Infrastructure as Code, monitoring, and modern DevOps practices.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Core Expertise
 
-## ☁️ Cloud
+- ☁️ AWS Cloud Infrastructure
+- ⚙️ CI/CD Pipeline Automation
+- 🏗️ Infrastructure as Code (Terraform)
+- 🐳 Docker & Docker Compose
+- ☸️ Kubernetes Deployment
+- 📈 Monitoring & Alerting
+- 🔐 Cloud Networking & Security
+- 🐧 Linux Administration
+- 💻 Shell Scripting
+- 🚀 Production Deployments
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-AWS • EC2 • VPC • IAM • S3 • EBS • RDS • Lambda • API Gateway • ALB • Auto Scaling • CloudWatch • SNS
+`EC2` • `VPC` • `IAM` • `S3` • `EBS` • `RDS` • `Lambda` • `API Gateway` • `ALB` • `Auto Scaling` • `CloudWatch` • `SNS`
 
 ---
 
-## ⚙️ DevOps
+### ⚙️ DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github"/>
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github" />
 </p>
 
-Docker • Docker Compose • Kubernetes • Jenkins • Git • GitHub • GitHub Actions • Terraform
+`Docker` • `Docker Compose` • `Kubernetes` • `Terraform` • `Jenkins` • `Git` • `GitHub`
 
 ---
 
-## 💻 Operating Systems
+### 💻 Operating Systems
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
-
+<img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-Ubuntu • Amazon Linux • Debian • RedHat • SUSE • Linux
+`Ubuntu` • `Amazon Linux` • `Debian` • `Red Hat` • `SUSE`
 
 ---
 
-## 👨‍💻 Languages & Scripting
+### 👨‍💻 Languages & Scripting
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-
+<img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
-Python • Bash • YAML • SQL
+`Python` • `Bash` • `Shell Scripting` • `YAML` • `SQL`
 
 ---
 
-## 📊 Monitoring
+### 📊 Monitoring
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
-
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-CloudWatch • SNS • Prometheus • Grafana
+`CloudWatch` • `SNS` • `Prometheus` • `Grafana`
 
 ---
 
-## 🧰 Tools
+### 🌐 Web Servers
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
-
+<img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 
-VS Code • Git • GitHub • Postman • PuTTY • WinSCP
+`Nginx` • `Apache`
 
 ---
 
-# 🎯 Core Expertise
+# 🎯 What I Build
 
-```text
-☁️ AWS Cloud Infrastructure
+✔️ Production-Ready AWS Infrastructure
 
-⚙️ CI/CD Automation
+✔️ Highly Available Cloud Architectures
 
-🏗 Infrastructure as Code
+✔️ Infrastructure Automation
 
-☸ Kubernetes Deployments
+✔️ Containerized Applications
 
-🐳 Docker Containerization
+✔️ Kubernetes Workloads
 
-📈 Monitoring & Alerting
+✔️ CI/CD Pipelines
 
-🔐 Cloud Security
+✔️ Cloud Monitoring & Alerting
 
-🌐 Networking
-
-🐧 Linux Administration
-
-📦 Production Deployments
-```
-
----
-
-# 📜 Certifications
-
-🏅 DevOps Internship Certificate
-
-🏅 Introduction to Python Programming
-
-🏅 SQL for Database Management
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:shivammalik.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shivam-Malik-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+✔️ Linux Server Administration
 
 ---
 
 <div align="center">
 
+### ⚡ Building Reliable Infrastructure • Automating Deployments • Delivering Scalable Cloud Solutions ⚡
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### ☁️ Production-Ready End-to-End DevOps Pipeline
+## ☁️ Production-Ready End-to-End DevOps Pipeline
 
-Complete production-style DevOps pipeline using AWS, Jenkins, Docker, Terraform and Kubernetes with automated CI/CD workflows.
+Production-grade CI/CD pipeline built on AWS integrating GitHub, Jenkins, Docker, Terraform and Kubernetes for automated deployments.
 
 **Tech Stack**
 
-`AWS` `Jenkins` `Docker` `Terraform` `Kubernetes` `GitHub`
+`AWS` `Jenkins` `Docker` `Terraform` `Kubernetes`
+
+<a href="https://github.com/Shivam-Malik-Dev/production-ready-devops-pipeline">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🏗 Highly Available AWS Infrastructure
+## 🏗 Highly Available AWS Infrastructure
 
-Designed and deployed highly available AWS infrastructure using Application Load Balancer, Auto Scaling Groups, CloudWatch and SNS across multiple Availability Zones.
+Designed a highly available AWS infrastructure using Application Load Balancer, Auto Scaling Groups, Launch Templates, CloudWatch and SNS with Multi-AZ deployment.
 
 **Tech Stack**
 
-`AWS` `ALB` `ASG` `CloudWatch` `SNS` `VPC`
+`AWS` `ALB` `ASG` `CloudWatch` `SNS`
+
+<a href="https://github.com/Shivam-Malik-Dev/highly-available-aws-infrastructure">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -218,25 +185,41 @@ Designed and deployed highly available AWS infrastructure using Application Load
 
 <td width="50%">
 
-### ⚙️ Automated CI/CD Pipeline
+## ⚙️ Automated CI/CD Pipeline
 
-Built automated deployment pipelines integrating GitHub, Jenkins and Docker for continuous integration and delivery.
+Implemented automated CI/CD workflows using Jenkins, Docker and GitHub Webhooks to streamline application deployments.
 
 **Tech Stack**
 
-`Jenkins` `GitHub` `Docker`
+`Jenkins`
+
+`Docker`
+
+`GitHub`
+
+<a href="https://github.com/Shivam-Malik-Dev/automated-cicd-pipeline">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### ☸️ Kubernetes Application Deployment
+## ☸️ Kubernetes Application Deployment
 
-Deployed containerized applications on Kubernetes using Deployments, Services and YAML manifests.
+Deployed containerized applications on Kubernetes clusters using Deployments, Services and YAML manifests.
 
 **Tech Stack**
 
-`Kubernetes` `Docker` `YAML`
+`Kubernetes`
+
+`Docker`
+
+`YAML`
+
+<a href="https://github.com/Shivam-Malik-Dev/kubernetes-application-deployment">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -246,13 +229,19 @@ Deployed containerized applications on Kubernetes using Deployments, Services an
 
 <td width="50%">
 
-### 🏗 Terraform Infrastructure as Code
+## 🏗 AWS Infrastructure Provisioning using Terraform
 
-Provisioned AWS infrastructure using reusable Terraform modules with version-controlled Infrastructure as Code.
+Provisioned AWS infrastructure using modular Terraform configurations following Infrastructure as Code best practices.
 
 **Tech Stack**
 
-`Terraform` `AWS`
+`Terraform`
+
+`AWS`
+
+<a href="https://github.com/Shivam-Malik-Dev/terraform-infrastructure-as-code">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -268,85 +257,37 @@ Provisioned AWS infrastructure using reusable Terraform modules with version-con
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam-Malik-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Malik-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-# 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Shivam-Malik-Dev&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Malik-Dev&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🤝 Let's Connect
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivam-Malik-Dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> **⚠️ One-time setup required**
-
-Create this GitHub Action:
-
-`.github/workflows/snake.yml`
-
-Then use:
-
-```md
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Shivam-Malik-Dev/Shivam-Malik-Dev/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-```
-
----
-
-# 💬 Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📌 Philosophy
-
-> **"Automation is not about replacing people. It's about eliminating repetitive work so engineers can focus on solving real problems."**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:shivammalik.work@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -360,7 +301,7 @@ Then use:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -368,11 +309,8 @@ Then use:
 
 ## ⭐ Thanks for visiting my profile!
 
-### If you like my work, consider giving a ⭐ to my repositories.
+### Building Scalable Cloud Infrastructure • Automating Deployments • Solving Real-World Infrastructure Challenges
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer"/>
-
-</div>
-## ⭐ Building Reliable Cloud Infrastructure • Automating Deployments • Delivering Scalable Solutions ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
