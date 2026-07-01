@@ -103,7 +103,16 @@ Provisioned modular, reusable AWS infrastructure using Terraform following IaC b
 [![View Project](https://img.shields.io/badge/View%20Project-%230ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Malik-Dev/terraform-infrastructure-as-code)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 🐳 Docker Compose Two-Tier Application
+Production-ready two-tier Flask & MySQL application deployed with Docker Compose on AWS EC2, with Docker Hub image management.
+
+`Docker Compose` `AWS EC2` `Flask` `MySQL`
+
+[![View Project](https://img.shields.io/badge/View%20Project-%230ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Malik-Dev/docker-compose-two-tier-application)
+
+</td>
 </tr>
 </table>
 
@@ -113,7 +122,6 @@ Provisioned modular, reusable AWS infrastructure using Terraform following IaC b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivam-Malik-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Malik-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
