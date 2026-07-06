@@ -118,22 +118,6 @@ Production-ready two-tier Flask & MySQL application deployed with Docker Compose
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Malik-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Shivam-Malik-Dev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📬 Open to Cloud & DevOps Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-malik-59b13a29b/)
